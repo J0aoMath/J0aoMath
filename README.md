@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J0aoMath
+- 👋 Hi, I’m John
 - 👀 I’m interested in chess, music and studies
 - 🌱 I’m currently learning python!!
 - 📫 Discord: john_htvm
